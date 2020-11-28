@@ -15,11 +15,13 @@ toc_icon: "cog"
 ---
 
 
-## located in Montreal,Canada
+## located in Montreal,Canada and Seoul,Korea
    
 
 ### Main Business    
    Vehicle Diagnosis Software and Vehicle Accident Defense Software using Artificial Intelligence/Machine Learning/Augmented Reality 
+### Development Service
+   Vehicle Motion Control, Robot Control Software, Deep learning Perception,Mobile Application Development
 
 ### Founder
    David Ko
