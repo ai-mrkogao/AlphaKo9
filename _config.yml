@@ -25,7 +25,7 @@ baseurl                  : "/AlphaKo9" # the subpath of your site, e.g. "/blog"
 repository               : "ai-mrkogao/AlphaKo9" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 # header:
 #   image: "/assets/images/totalservice.png"
-# teaser                   : "/assets/images/totalservice.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/totalservice.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -94,7 +94,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : true # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
     anonymize_ip         : # true, false (default)
@@ -103,9 +103,9 @@ analytics:
 # Site Author
 author:
   name             : "Founder: David Ko"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Start Up for Vehicle Diagnosis Software and Vehicle Accident Defense Software using Artificial Intelligence/Machine Learning/Augmented Reality"
-  location         : "Canada/Korea"
+  location         : "Montreal,Canada"
   email            : "ihome911@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -189,7 +189,7 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-
+  parse_block_html: true
 
 # Sass/SCSS
 sass:
@@ -270,6 +270,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments:  true
       share: true
       related: true
