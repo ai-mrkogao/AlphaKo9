@@ -11,6 +11,7 @@ use_math: true
 tags: vehicle control 
 category: control 
 author_profile: true
+
 ---
 
 ## Start Up Company for Developing Vehicle Diagnosis Software and Vehicle Accident Defense Software using Artificial Intelligence/Machine Learning/Augmented Reality 
