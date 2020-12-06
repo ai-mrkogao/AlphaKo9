@@ -14,20 +14,17 @@ author_profile: true
 
 ---
 
+
 ## Start Up Company 
 
 Developing **Vehicle Diagnosis Software**{: style="color: blue; opacity: 0.80;" } and **Vehicle Accident Defense Software**{: style="color: red; opacity: 0.80;" } using __Artificial Intelligence/Machine Learning/Augmented Reality__
 
 ![totalservice](./assets/images/totalservice.png)
 
-<!-- <iframe src="https://drive.google.com/file/d/1LRvMzvd3-5AodrAcIuREs77gQpPN6sxr/preview"></iframe>
- -->
-<div class="embed-container">
-  <iframe
-      width="640"
-      height="480"
-      src="https://drive.google.com/file/d/1LRvMzvd3-5AodrAcIuREs77gQpPN6sxr/preview"
-      frameborder="0"
-      allowfullscreen="">
-  </iframe>
-</div>
+
+## Video Introduction
+
+<iframe src="https://drive.google.com/file/d/1LRvMzvd3-5AodrAcIuREs77gQpPN6sxr/preview" width="640" height="480"></iframe>
+
+[Click Video Link](https://drive.google.com/file/d/1LRvMzvd3-5AodrAcIuREs77gQpPN6sxr/preview)
+
